@@ -1,5 +1,5 @@
 # Data-Visualization-using-R
-
+ *// https://community.storytellingwithdata.com/challenges/oct-2021-makeover-challenge
 
 Although there were a couple of areas that needed to be improved, but the overall chart seems to be appropriate with the dataset provided. The above makeover plot contains all the modifications that were applied to make the story telling more efficient and logical.
 * The gridlines were removed on both x- and y-axis because y axis already had scales to understand different price values. Moreover, as per my understanding, adding annotations provide context and help the reader and audience with some insights.
